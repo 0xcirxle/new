@@ -10,7 +10,7 @@ export const Team = [
         designation_b: 'Intern at EigenLayer',
         image: '/images/panic.png',
         github: 'https://github.com/0xpanicError/',
-        twitter: 'https://x.com/0xpanicError/',
+        twitter: 'https://twitter.com/0xpanicError/',
         linkedin: 'https://www.linkedin.com/in/yash2399/',
         gender: Gender.Male,
     },
@@ -187,7 +187,7 @@ export const Team = [
     {
         name: 'Archit Gangwal',
         designation_a: 'Core Member',
-        image: '',
+        image: '/images/archit.jpeg',
         github: 'https://github.com/arcwood/',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/archit-gangwal-16b035228/',
