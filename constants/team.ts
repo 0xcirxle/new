@@ -363,15 +363,15 @@ export const Team = [
         name: 'Ajay Odedra',
         designation_a: 'Designer',
         image: '/images/ajay.jpg',
-        github: '',
-        twitter: '',
+        github: 'https://github.com/Spyder111A/',
+        twitter: 'https://x.com/AjayOdedra84029/',
         linkedin: 'https://www.linkedin.com/in/ajay-odedra-b26923283/',
         gender: Gender.Male
     },
     {
         name: 'Cheshta Bhandari',
         designation_a: 'Designer',
-        image: '',
+        image: '/images/cheshta.jpeg',
         github: 'https://github.com/CheshtaB/',
         twitter: '',
         linkedin: '',
