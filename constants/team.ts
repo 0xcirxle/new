@@ -18,7 +18,7 @@ export const Team = [
         name: 'Samaredra Gouda',
         designation_a: 'Vice President',
         designation_b: 'Dev at Instadapp',
-        image: '/images/samarendra.jpg',
+        image: '/images/samarendra_.jpg',
         github: 'https://github.com/SamarendraGouda/',
         twitter: 'https://x.com/0xSamarendra/',
         linkedin: 'https://www.linkedin.com/in/samarendra-gouda/',
@@ -272,7 +272,7 @@ export const Team = [
     {
         name: 'Aniruddh Yadav',
         designation_a: 'Core Member',
-        image: '/images/aniruddh.jpg',
+        image: '/images/aniruddh_.jpg',
         github: 'https://github.com/0xcirxle/',
         twitter: 'https://x.com/0xCirxle/',
         linkedin: 'https://www.linkedin.com/in/aniruddh-yadav-259490299/',
