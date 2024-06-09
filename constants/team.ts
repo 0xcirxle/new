@@ -164,6 +164,7 @@ export const Team = [
     {
         name: 'Barun Sethi',
         designation_a: 'Designer',
+        designation_b: 'Intern at GoBlu',
         image: '/images/barun.jpg',
         github: '',
         twitter: '',
@@ -191,6 +192,7 @@ export const Team = [
     {
         name: 'Omkar Darde',
         designation_a: 'Designer',
+        designation_b: 'Unfold finalist',
         image: '/images/omkar.jpg',
         github: 'https://github.com/0xClint/',
         twitter: 'https://x.com/0x_Clint/',
@@ -200,6 +202,7 @@ export const Team = [
     {
         name: 'Shivam Verma',
         designation_a: 'Core Member',
+        designation_b: 'Unfold finalist',
         image: '/images/shivam.jpg',
         github: 'https://github.com/ShivamPoW/',
         twitter: 'https://x.com/Shevxer/',
