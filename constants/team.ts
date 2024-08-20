@@ -48,7 +48,7 @@ export const Team = [
         name: 'Shourya Goel',
         designation_a: 'Head of Research',
         designation_b: 'DSE at Nethermind',
-        image: '/team_images/shourya_g.png',
+        image: '/team_images/shourya_g.jpeg',
         github: 'https://github.com/Sh0g0-1758/',
         twitter: 'https://x.com/ShogLoFi/',
         linkedin: 'https://www.linkedin.com/in/shourya-goel-03b18724b/',
