@@ -2,7 +2,7 @@
   <div class="border-b pb-8">
     <a :href="link">
       <div>
-        <h2 class="text-2xl font-semibold mb-2">{{ title }}</h2>
+        <h2 class="text-xl font-semibold mb-2">{{ title }}</h2>
         <p class="text-gray-600 mb-4">{{ description }}</p>
       </div>
     </a>

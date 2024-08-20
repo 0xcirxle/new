@@ -18,7 +18,7 @@ import { ref, computed } from 'vue'
 import Blog from '../../components/Card/Blog.vue'
 import { BlogPosts } from "../../constants/blogs"
 
-const categories = ['All', 'Research', 'Commentary', 'News']
+const categories = ['All', 'Research', 'News']
 const activeCategory = ref('All')
 
 const filteredPosts = computed(() => {

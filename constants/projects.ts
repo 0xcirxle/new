@@ -154,7 +154,7 @@ export const projects = [
         description: 'A mutation testing suite written in Rust',
         desca: 'Beskar is a tool which uses gambit, a mutant generation tool from Certora to perform mutation testing on foundry projects.',
         descb: 'It allows developers to perform analysis of their tests and improve the test coverage by giving a smooth overview of results of testing on each mutant.',
-        image: '',
+        image: '/project_images/beskar.png',
         github: 'https://github.com/BlocSoc-iitr/Beskar',
         website: '',
         devfolio: '',
