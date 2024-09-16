@@ -45,7 +45,7 @@ export const Achievements = [
     {
         title: "Winners at ETHMumbai Hackathon",
         year: "2024",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/ethmumbai.png",
         winners: [
             {
                 description: "",
@@ -55,7 +55,7 @@ export const Achievements = [
     {
         title: "Winners at Circuit Breakers",
         year: "2024",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/circuitbreaker.png",
         winners: [
             {
                 description: "",
@@ -65,7 +65,7 @@ export const Achievements = [
     {
         title: "Winners at LFG GHO Hackathon",
         year: "2024",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/lfggho.png",
         winners: [
             {
                 description: "",
@@ -85,7 +85,7 @@ export const Achievements = [
     {
         title: "Winners at ETHIndia Hackathon",
         year: "2023",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/ethindia.svg",
         winners: [
             {
                 description: "",
@@ -95,7 +95,7 @@ export const Achievements = [
     {
         title: "Winners at ink! Polkadot Hackathon",
         year: "2023",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/polkadot.png",
         winners: [
             {
                 description: "",
@@ -105,7 +105,7 @@ export const Achievements = [
     {
         title: "Finalists at Unfold",
         year: "2023",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/unfold.webp",
         winners: [
             {
                 description: "",
@@ -115,7 +115,7 @@ export const Achievements = [
     {
         title: "Best Filecoin Project at ETHOnline",
         year: "2023",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/ethonline23.png",
         winners: [
             {
                 description: "",
@@ -135,7 +135,7 @@ export const Achievements = [
     {
         title: "Best Mobile App & Best use of Subgraph at ETHGlobal Paris",
         year: "2023",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/ethglobalparis.png",
         winners: [
             {
                 description: "",
