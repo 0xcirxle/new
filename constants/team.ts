@@ -238,15 +238,6 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Aakash Ramesh',
-        designation_a: 'Core Member',
-        image: '/team_images/aakash.jpg',
-        github: 'https://github.com/AakashR-325/',
-        twitter: 'https://twitter.com/Cicada3978/',
-        linkedin: 'https://www.linkedin.com/in/aakash-ramesh-a683b2253/',
-        gender: Gender.Male
-    },
-    {
         name: 'Abhijeet Dixit',
         designation_a: 'Designer',
         image: '/team_images/abhijeet.jpg',
