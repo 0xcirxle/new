@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-row gap-4 w-80">
     <div class="w-24 h-24 bg-gray-100 self-stretch">
-      <img v-if="image" :src="image" :alt="name" class="w-24 h-full object-cover" />
+      <NuxtImg v-if="image" :src="image" :alt="name" class="w-24 h-full object-cover" loading="lazy" />
       <SvgoProfileMale v-else-if="gender === 'male'" class="w-24 h-24 text-gray-400"/>
       <SvgoProfileFemale v-else class="w-24 h-24 text-gray-400"/>
     </div>

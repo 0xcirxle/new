@@ -2,7 +2,7 @@
   <NuxtLink :to="`/project/${title.toLowerCase()}`">
     <div class="flex flex-row gap-4 w-80">
       <div class="w-24 h-24 self-stretch">
-        <img v-if="image" :src="image" :alt="title" class="w-24 h-full" />
+        <NuxtImg v-if="image" :src="image" :alt="title" class="w-24 h-full" loading="lazy" />
         <SvgoProject v-else class="w-24 h-24 text-gray-400" />
       </div>
       <div class="flex flex-col gap-1 justify-between w-40 self-stretch">

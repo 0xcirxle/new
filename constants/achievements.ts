@@ -33,7 +33,7 @@ export const Achievements = [
         ] 
     },
     {
-        title: "Winners at Scaling Ethereum",
+        title: "Scaling Ethereum",
         year: "2024",
         image: "/achievement_images/scalingeth.png",
         winners: [
@@ -43,7 +43,7 @@ export const Achievements = [
         ]
     },
     {
-        title: "Winners at ETHMumbai Hackathon",
+        title: "ETHMumbai Hackathon",
         year: "2024",
         image: "/achievement_images/ethmumbai.png",
         winners: [
@@ -53,7 +53,7 @@ export const Achievements = [
         ]
     },
     {
-        title: "Winners at Circuit Breakers",
+        title: "Circuit Breaker Hackathon",
         year: "2024",
         image: "/achievement_images/circuitbreaker.png",
         winners: [
@@ -63,7 +63,7 @@ export const Achievements = [
         ]
     },
     {
-        title: "Winners at LFG GHO Hackathon",
+        title: "LFG GHO Hackathon",
         year: "2024",
         image: "/achievement_images/lfggho.png",
         winners: [
@@ -73,17 +73,17 @@ export const Achievements = [
         ]
     },
     {
-        title: "Silver Medal at Inter IIT Tech 12.0 : Aptos Labs PS",
+        title: "Inter IIT Tech 12.0",
         year: "2023",
         image: "/achievement_images/interiit12.png",
         winners: [
             {
-                description: "",
+                description: "Secured the Silver medal in Aptos Labs PS",
             },
         ]
     },
     {
-        title: "Winners at ETHIndia Hackathon",
+        title: "ETHIndia Hackathon",
         year: "2023",
         image: "/achievement_images/ethindia.svg",
         winners: [
@@ -93,7 +93,7 @@ export const Achievements = [
         ]
     },
     {
-        title: "Winners at ink! Polkadot Hackathon",
+        title: "ink! Polkadot Hackathon",
         year: "2023",
         image: "/achievement_images/polkadot.png",
         winners: [
@@ -103,7 +103,7 @@ export const Achievements = [
         ]
     },
     {
-        title: "Finalists at Unfold",
+        title: "Unfold",
         year: "2023",
         image: "/achievement_images/unfold.webp",
         winners: [
@@ -113,32 +113,32 @@ export const Achievements = [
         ]
     },
     {
-        title: "Best Filecoin Project at ETHOnline",
+        title: "ETHOnline",
         year: "2023",
         image: "/achievement_images/ethonline23.png",
         winners: [
             {
-                description: "",
+                description: "Best Filecoin project",
             },
         ]
     },
     {
-        title: "6th Position at Huffathon",
+        title: "Huffathon",
         year: "2023",
-        image: "/achievement_images/ethglobal.jpeg",
+        image: "/achievement_images/huff.png",
         winners: [
             {
-                description: "",
+                description: "6th",
             },
         ]
     },
     {
-        title: "Best Mobile App & Best use of Subgraph at ETHGlobal Paris",
+        title: "ETHGlobal Paris",
         year: "2023",
         image: "/achievement_images/ethglobalparis.png",
         winners: [
             {
-                description: "",
+                description: "Best Mobile App & Best use of Subgraph",
             },
         ]
     }

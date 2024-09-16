@@ -5,7 +5,7 @@
   <div class="mt-4" v-for="(achievement, i) in Achievements" :key="i">
     <div class="flex flex-row items-start justify-start w-full gap-4 ml-4">
       <div class="flex-shrink-0 w-10 h-10 mt-1">
-        <img :src="achievement.image" :alt="achievement.title" class="w-full h-full object-cover rounded-lg" />
+        <NuxtImg :src="achievement.image" :alt="achievement.title" class="w-full h-full object-cover rounded-lg" loading="lazy" />
       </div>
       <div class="flex flex-col items-start justify-center w-full">
         <div class="text-lg font-semibold">{{ achievement.title }}</div>
